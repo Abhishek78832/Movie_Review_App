@@ -1,16 +1,13 @@
-# untitled
+ #Movie Review App (Flutter + TMDB API)
 
-A new Flutter project.
+A movie browsing and review UI built with Flutter, featuring real data from the TMDB API. It includes:
 
-## Getting Started
+Trending and searchable movie lists fetched via REST APIs
 
-This project is a starting point for a Flutter application.
+Secure authentication with user profiles
 
-A few resources to get you started if this is your first Flutter project:
+Watchlist support using SQFlite for offline storage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Detailed movie pages with trailer support, ratings, and full descriptions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive design for smooth navigation across screens
