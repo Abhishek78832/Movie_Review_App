@@ -11,3 +11,5 @@ Watchlist support using SQFlite for offline storage
 Detailed movie pages with trailer support, ratings, and full descriptions
 
 Responsive design for smooth navigation across screens
+
+![image alt](https://github.com/Abhishek78832/Movie_Review_App/blob/master/movie%20app.jpg)
